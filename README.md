@@ -1,5 +1,7 @@
 # AngularJS
 
+By [Cory Morgan](Cmorgan5.github.io).
+
 This repo is dedicated to my projects that I create using the Angular JS framework. Commit for the day
 
 Project 1
